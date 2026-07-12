@@ -4,3 +4,9 @@ server:
 spring:
   application:
     name: job-hunting-backend
+
+  datasource:
+    url: jdbc:mysql://127.0.0.1:3306/job_hunting?useUnicode=true&characterEncoding=utf8&serverTimezone=Asia/Tokyo&allowPublicKeyRetrieval=true&useSSL=false
+    username: root
+    password: 19950224
+    driver-class-name: com.mysql.cj.jdbc.Driver

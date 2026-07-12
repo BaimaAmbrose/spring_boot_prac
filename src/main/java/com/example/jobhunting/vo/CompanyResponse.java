@@ -1,7 +1,11 @@
-package com.baima.jobhunting.model;
+package com.example.jobhunting.vo;
 
 
-public class Company {
+/*
+    This part defines the response data structure 
+    sent to the frontend and controls which fields are exposed to the frontend.
+ */
+public class CompanyResponse {
 
     private Long id;
     private String name;
@@ -9,7 +13,7 @@ public class Company {
     private String position;
     private String status;
 
-    public Company(Long id, String name, String industry, String position, String status) {
+    public CompanyResponse(Long id, String name, String industry, String position, String status) {
         this.id = id;
         this.name = name;
         this.industry = industry;
@@ -36,4 +40,5 @@ public class Company {
     public String getStatus() {
         return status;
     }
+
 }

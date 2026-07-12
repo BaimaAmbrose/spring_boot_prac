@@ -1,4 +1,10 @@
-/Users/baima/Desktop/spring_boot_prac/src/main/java/com/baima/jobhunting/JobHuntingApplication.java
-/Users/baima/Desktop/spring_boot_prac/src/main/java/com/baima/jobhunting/controller/CompanyController.java
-/Users/baima/Desktop/spring_boot_prac/src/main/java/com/baima/jobhunting/controller/HelloController.java
-/Users/baima/Desktop/spring_boot_prac/src/main/java/com/baima/jobhunting/model/Company.java
+/Users/baima/Desktop/spring_boot_prac/src/main/java/com/example/jobhunting/JobHuntingApplication.java
+/Users/baima/Desktop/spring_boot_prac/src/main/java/com/example/jobhunting/controller/CompanyController.java
+/Users/baima/Desktop/spring_boot_prac/src/main/java/com/example/jobhunting/controller/DatabaseTestController.java
+/Users/baima/Desktop/spring_boot_prac/src/main/java/com/example/jobhunting/controller/HelloController.java
+/Users/baima/Desktop/spring_boot_prac/src/main/java/com/example/jobhunting/dto/CompanyCreateRequest.java
+/Users/baima/Desktop/spring_boot_prac/src/main/java/com/example/jobhunting/entity/Company.java
+/Users/baima/Desktop/spring_boot_prac/src/main/java/com/example/jobhunting/mapper/CompanyMapper.java
+/Users/baima/Desktop/spring_boot_prac/src/main/java/com/example/jobhunting/service/CompanyService.java
+/Users/baima/Desktop/spring_boot_prac/src/main/java/com/example/jobhunting/service/impl/CompanyServiceImpl.java
+/Users/baima/Desktop/spring_boot_prac/src/main/java/com/example/jobhunting/vo/CompanyResponse.java
